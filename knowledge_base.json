@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "T\u00c3\u00aan b\u00e1\u00ba\u00a1n l\u00c3\u00a0 g\u00c3\u00ac?",
+      "answer": "My name is ChatBot."
+    },
+    {
+      "question": "ch\u00e0o b\u1ea1n",
+      "answer": "Xin ch\u00e0o, m\u1ed9t ng\u00e0y m\u1edbi nh\u01b0 n\u00e0o?"
+    },
+    {
+      "question": "b\u1ea1n l\u00e0 ai?",
+      "answer": "t\u00f4i l\u00e0 Consultant Bot n\u00e8"
+    },
+    {
+      "question": "b\u00ecnh th\u01b0\u1eddng",
+      "answer": "tuy\u1ec7t"
+    }
+  ]
+}
